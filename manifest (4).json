@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Pali-Myanmar-English Calendar",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Palicalendar",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "Pali-Myanmar-English Calendar ",
+  "description": "Pali-Myanmar-English Application"
+}
